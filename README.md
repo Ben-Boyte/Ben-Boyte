@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Header](https://user-images.githubusercontent.com/103063763/177596571-60017ba8-c7ae-4efe-aacf-80447735abce.svg "Header")](linkedin.com/in/ben-boyte-38a422244)
 <!--
 **Ben-Boyte/Ben-Boyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
